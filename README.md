@@ -1,0 +1,2 @@
+# celestia
+testnet
